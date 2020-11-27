@@ -10,7 +10,7 @@ setup(
     license='BSD',
     author_email='giswqs@gmail.com',
     url='https://github.com/giswqs/pypackage',
-    keywords=['cookiecutter', 'template', 'package', ],
+    keywords=['cookiecutter', 'template', 'package', 'mkdocs'],
     python_requires='>=3.5',
     classifiers=[
         'Development Status :: 4 - Beta',
