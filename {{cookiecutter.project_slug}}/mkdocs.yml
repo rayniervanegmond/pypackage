@@ -18,7 +18,10 @@ plugins:
     - search
     - mkdocstrings
     - git-revision-date
-
+    - mkdocs-jupyter:
+          include_source: True
+          # execute: True
+          
 markdown_extensions:
     - attr_list
 
