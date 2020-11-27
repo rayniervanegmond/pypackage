@@ -22,4 +22,4 @@
 
 ## Credits
 
-This package was created with [Cookiecutter](https://github.com/cookiecutter/cookiecutter) and the [giswqs/pkg-creator](https://github.com/giswqs/pkg-creator) project template.
+This package was created with [Cookiecutter](https://github.com/cookiecutter/cookiecutter) and the [giswqs/pypackage](https://github.com/giswqs/pypackage) project template.

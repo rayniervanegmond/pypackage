@@ -2,14 +2,14 @@
 
 from distutils.core import setup
 setup(
-    name='pkg-creator',
+    name='pypackage',
     packages=[],
     version='0.1.0',
     description='Cookiecutter template for a Python package',
     author='Qiusheng Wu',
     license='BSD',
     author_email='giswqs@gmail.com',
-    url='https://github.com/giswqs/pkg-creator',
+    url='https://github.com/giswqs/pypackage',
     keywords=['cookiecutter', 'template', 'package', ],
     python_requires='>=3.5',
     classifiers=[
