@@ -5,14 +5,17 @@ site_url: https://giswqs.github.io/pypackage
 repo_url: https://github.com/giswqs/pypackage
 
 theme:
+    palette:
+        scheme: preference
     name: material
     icon:
         repo: fontawesome/brands/github
     features:
         - navigation.instant
-        - navigation.expand
-        - navigation.tabs
         - search.highlight
+        # - navigation.expand
+        # - navigation.tabs
+    custom_dir: "docs/overrides"
 
 plugins:
     - search
@@ -21,6 +24,12 @@ plugins:
 
 markdown_extensions:
     - attr_list
+    - toc:
+          permalink: true
+
+# google_analytics:
+#     - UA-XXXXXXXXX-X
+#     - auto
 
 nav:
     - Home: index.md
