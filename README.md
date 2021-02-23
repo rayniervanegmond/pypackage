@@ -38,6 +38,26 @@ Then:
     need for your project and their versions. For more info see the [pip
     docs for requirements files](https://pip.pypa.io/en/stable/user_guide/#requirements-files).
 
+## Video Tutorials
+
+**1. Creating a Python package with Cookiecutter Template**
+
+[![](http://img.youtube.com/vi/DAPAv9KbYZ0/0.jpg)](http://www.youtube.com/watch?v=DAPAv9KbYZ0)
+
+**2. Publishing Python packages on PyPI**
+
+[![](http://img.youtube.com/vi/7FcX9uWDuIQ/0.jpg)](http://www.youtube.com/watch?v=7FcX9uWDuIQ)
+
+**3. Deploying Python packages to PyPI using GitHub Actions**
+
+[![](http://img.youtube.com/vi/oayticDOZmU/0.jpg)](http://www.youtube.com/watch?v=oayticDOZmU)
+
+**4. Introduction to Python package file structure**
+
+[![](http://img.youtube.com/vi/0eLt_O6sIYU/0.jpg)](http://www.youtube.com/watch?v=0eLt_O6sIYU)
+
+
+
 ## Not Exactly What You Want?
 
 Don't worry, you have options:
