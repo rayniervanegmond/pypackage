@@ -1,10 +1,10 @@
 on:
     push:
         branches:
-            - master
+            - {{ cookiecutter.github_default_branch }}
     pull_request:
         branches:
-            - master
+            - {{ cookiecutter.github_default_branch }}
 
 name: build
 jobs:

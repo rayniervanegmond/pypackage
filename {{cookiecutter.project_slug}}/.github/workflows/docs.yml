@@ -2,7 +2,7 @@ name: docs
 on:
     push:
         branches:
-            - master
+            - {{ cookiecutter.github_default_branch }}
 jobs:
     deploy:
         runs-on: ubuntu-latest
