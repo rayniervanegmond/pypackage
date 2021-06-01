@@ -23,6 +23,6 @@
         "Apache Software License 2.0",
         "GNU General Public License v3"
     ],
-    "github_default_branch": ["main", "master"],
+    "github_default_branch": ["master", "main"],
     "_copy_without_render": [".github/workflows/*.yml", "docs/overrides/main.html"]
 }
