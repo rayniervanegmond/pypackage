@@ -8,8 +8,8 @@ setup(
     description='Cookiecutter template for a Python package',
     author='Qiusheng Wu',
     license='BSD',
-    author_email='giswqs@gmail.com',
-    url='https://github.com/giswqs/pypackage',
+    author_email='raynierx@gmail.com',
+    url='https://github.com/rayniervanegmond/pypackage',
     keywords=['cookiecutter', 'template', 'package', 'mkdocs'],
     python_requires='>=3.5',
     classifiers=[
