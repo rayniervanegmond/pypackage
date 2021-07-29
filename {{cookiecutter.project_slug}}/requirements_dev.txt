@@ -8,6 +8,13 @@ coverage
 Sphinx
 twine
 grip
+
+mkdocs-material 
+mkdocstrings 
+mkdocs-git-revision-date-plugin 
+mkdocs-jupyter 
+ipykernel
+
 {% if cookiecutter.command_line_interface|lower == 'click' -%}
 Click{% endif %}
 {% if cookiecutter.use_pytest == 'y' -%}
